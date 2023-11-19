@@ -1,10 +1,11 @@
 # tik tac toe using the MinMax algorithm
 
 ## How to run
+`
 git clone https://github.com/Sarthak950/tik-tac-toe.git
 cd tik-tac-toe
 g++ -O3 -std=c++11 main.cpp -o main && ./main
-
+`
 ## How to play
 The game is played on a grid that's 3 squares by 3 squares.
 
